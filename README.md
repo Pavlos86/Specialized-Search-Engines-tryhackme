@@ -11,4 +11,5 @@ https://www.shodan.io/
 Consider visiting Shodan Search Query Examples for more examples. Furthermore, you can check Shodan trends for historical insights if you have a subscription.
 
 https://www.shodan.io/search/examples
+
 https://trends.shodan.io/

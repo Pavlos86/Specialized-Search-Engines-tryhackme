@@ -20,3 +20,10 @@ At first glance, Censys appears similar to Shodan. However, Shodan focuses on In
 https://search.censys.io/
 
 https://docs.censys.com/docs/ls-introductory-use-cases#/
+
+# VirusTotal
+VirusTotal is an online website that provides a virus-scanning service for files using multiple antivirus engines. It allows users to upload files or provide URLs to scan them against numerous antivirus engines and website scanners in a single operation. They can even input file hashes to check the results of previously uploaded files.
+
+The screenshot below shows the result of checking the submitted file against 67 antivirus engines. Furthermore, one can check the community's comments for more insights. Occasionally, a file might be flagged as a virus or a Trojan; however, this might not be accurate for various reasons, and that's when community members can provide a more in-depth explanation.
+
+https://www.virustotal.com/gui/home/upload

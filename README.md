@@ -13,3 +13,6 @@ Consider visiting Shodan Search Query Examples for more examples. Furthermore, y
 https://www.shodan.io/search/examples
 
 https://trends.shodan.io/
+
+# Censys
+At first glance, Censys appears similar to Shodan. However, Shodan focuses on Internet-connected devices and systems, such as servers, routers, webcams, and IoT devices. Censys, on the other hand, focuses on Internet-connected hosts, websites, certificates, and other Internet assets. Some of its use cases include enumerating domains in use, auditing open ports and services, and discovering rogue assets within a network. You might want to check Censys Introductory Use Cases.

@@ -9,5 +9,6 @@ Let’s start with Shodan, a search engine for devices connected to the Internet
 https://www.shodan.io/
 
 Consider visiting Shodan Search Query Examples for more examples. Furthermore, you can check Shodan trends for historical insights if you have a subscription.
+
 https://www.shodan.io/search/examples
 https://trends.shodan.io/
